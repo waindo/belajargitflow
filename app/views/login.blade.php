@@ -11,18 +11,18 @@
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
       body {
-        padding-top: 40px;
-        padding-bottom: 40px;
-		background:#333;
+        padding-top: 30px;
+        padding-bottom: 30px;
+		background:#353;
       }
 
       .form-signin {
-        max-width: 200px;
+        max-width: 300px;
         padding: 19px 29px 29px;
         margin: 0 auto 20px;
 		margin-top:200px;
         background-color: #fff;
-        border: 1px solid #e5e5e5;
+        border: 11px solid #e5e5e5;
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 		border-radius: 5px;
@@ -65,6 +65,7 @@ return (true);
       </form>
 
     </div> <!-- /container -->
+<p> mencoba </p>
 
 </body>
 </html>
